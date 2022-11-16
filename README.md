@@ -1,4 +1,4 @@
-[![Design sem nome](https://user-images.githubusercontent.com/94881508/202249059-e6833409-f7e3-455e-bfb2-9bee7dfb6975.png)](https://github.com/lucasbrtz)
+[![GitHub-Template-01](https://user-images.githubusercontent.com/94881508/202282094-a15f1b61-22f8-4c7b-b50a-b067fcab817b.png)](https://github.com/lucasbrtz)
 
 # Hello, world! <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="36px">
 
