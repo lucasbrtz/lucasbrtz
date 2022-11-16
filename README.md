@@ -35,8 +35,8 @@ I am a Mathematics teacher and an aspiring data scientist.
 [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
 
 <div>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=lucasbrtz&show_icons=true&theme=dark"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbrtz&theme=dark&layout=compact"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=lucasbrtz&show_icons=true&theme=radical"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbrtz&theme=radical&layout=compact"/>
 </div>
 
 <!---
